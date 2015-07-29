@@ -1,9 +1,4 @@
----
-language: none
-tags: site planning
-type: lecture
-resources: 0
----
+
 
 ## Planning Your Site ~ 3min
 
