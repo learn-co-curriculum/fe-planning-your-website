@@ -1,7 +1,9 @@
 languages:
   - none
 tags:
-  - site planning
+  - planning
+  - mockup
+  - site map
 type:
   - lecture
-resources: 0
+resources: 4
