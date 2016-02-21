@@ -40,4 +40,4 @@ Mockups can be hand drawn or by using digital tools. These act as simple plans t
 - [Mockup App - MockingBird](https://gomockingbird.com/)
 - [Flow Diagram Creator - Bubbl.us](https://bubbl.us/)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-planning-your-website' title='Planning Your Site ~ 3min'>Planning Your Site ~ 3min</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-planning-your-website' title='Planning Your Site'>Planning Your Site</a> on Learn.co and start learning to code for free.</p>
