@@ -4,7 +4,7 @@
 
 In this lesson, we will explore ways to plan your website.
 
-## Objectives
+## What We'll Cover
 
 1. Site Planning
 2. Site Maps
