@@ -19,7 +19,7 @@ In this lesson, we will explore ways to plan your website.
 
 ### Brainstorming
 
-Start by jotting down the content of your site. Some prefer to make text lists of all the content and then organize similiar content into the same pages. Others like to spend time sketchig out the user interface and consider how users will move through the content you present them. Creating a flow chart can give you an idea of how many pages you'll have and how they'll link to each other. Let's go into a little more detail for each of these things on their own.
+Start by jotting down the content of your site. Some prefer to make text lists of all the content and then organize similiar content into the same pages. Others like to spend time sketching out the user interface and consider how users will move through the content you present them. Creating a flow chart can give you an idea of how many pages you'll have and how they'll link to each other. Let's go into a little more detail for each of these things on their own.
 
 #### Flow Chart
 
@@ -41,3 +41,5 @@ Whatever medium you choose, it is a good idea to organize and plan out the conte
 - [Flow Diagram Creator - Bubbl.us](https://bubbl.us/)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-planning-your-website' title='Planning Your Site'>Planning Your Site</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/fe-planning-your-website'>Planning Your Website</a> on Learn.co and start learning to code for free.</p>
